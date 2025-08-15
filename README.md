@@ -10,8 +10,8 @@ I enjoy turning messy data into decisions. I’ve worked at **L&T – AI Centre 
 ---
 
 ## 🔗 Links
-- **LinkedIn:** [<Ketan Barkade> ](https://www.linkedin.com/in/ketanbarkade/) 
-- **Resume:** [<Ketan Barkade_CV>](https://drive.google.com/file/d/153S52ulKQPeO9PvIousxAMSdQvnnAxHF/view?usp=drive_link)  
+- **LinkedIn:** [<KetanBarkade> ](https://www.linkedin.com/in/ketanbarkade/) 
+- **Resume:** [<KetanBarkade_CV>](https://drive.google.com/file/d/153S52ulKQPeO9PvIousxAMSdQvnnAxHF/view?usp=drive_link)  
 - **Email:** ketanbarkade02@gmail.com  
 
 ---
