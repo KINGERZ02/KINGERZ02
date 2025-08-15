@@ -16,13 +16,13 @@ I enjoy turning messy data into decisions. I’ve worked at **L&T – AI Centre 
 
 ---
 
-## 🚀 Current Work
+## 📌 Current Work
 - **Capstone:** End-of-Life Decision Making in ICU – Vitals Model  
 - **DL Project:** Demand Forecasting & Inventory Optimization  
 
 ---
 
-## 🧠 Skills
+## 📌 Skills
 Python | SQL | Pandas | NumPy | scikit-learn | Tableau | Excel | Flask | Git  
 Computer Vision (Template Matching, Contours, NMS, IoU)  
 
