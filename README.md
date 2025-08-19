@@ -33,7 +33,6 @@ Computer Vision (Template Matching, Contours, NMS, IoU)
 - **ICU Vitals Model (Capstone)** – Repo coming soon
 - **Smart Personal Finance Manager** – [Repo](https://github.com/KINGERZ02/Smart-Personal-Finance-Manager)
 - **Formula-1 Analytics Dashboard** – [Repo](https://github.com/KINGERZ02/F1-Dashboard)
-- **OpenCV Background Editor** – [Repo](https://github.com/KINGERZ02/OpenCV-BackgroundEditor)
 - **Braille-to-text-and-Speech-convertor** - [Repo](https://github.com/KINGERZ02/Braille-to-text-and-Speech-convertor)
  
 
