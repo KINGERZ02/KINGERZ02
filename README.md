@@ -35,7 +35,7 @@ Computer Vision (Template Matching, Contours, NMS, IoU)
 - **Smart Personal Finance Manager** – [Repo](https://github.com/KINGERZ02/Smart-Personal-Finance-Manager)
 - **Formula-1 Analytics Dashboard** – [Repo](https://github.com/KINGERZ02/F1-Dashboard)
 - **Braille-to-text-and-Speech-convertor** - [Repo](https://github.com/KINGERZ02/Braille-to-text-and-Speech-convertor)
-- **Habit Tracking Assistant** - [Repo]
+- **Habit Tracking Assistant** - [Repo](https://github.com/KINGERZ02/Habit-Tracking-Assistant)
  
 
 ---
