@@ -18,7 +18,8 @@ I enjoy turning messy data into decisions. I’ve worked at **L&T – AI Centre 
 
 ## 📌 Current Work
 - **Capstone:** End-of-Life Decision Making in ICU – Vitals Model  
-- **DL Project:** Demand Forecasting & Inventory Optimization  
+- **DL Project:** Demand Forecasting & Inventory Optimization
+- **Personal ML Project:** Habit Tracking Assistant
 
 ---
 
@@ -34,6 +35,7 @@ Computer Vision (Template Matching, Contours, NMS, IoU)
 - **Smart Personal Finance Manager** – [Repo](https://github.com/KINGERZ02/Smart-Personal-Finance-Manager)
 - **Formula-1 Analytics Dashboard** – [Repo](https://github.com/KINGERZ02/F1-Dashboard)
 - **Braille-to-text-and-Speech-convertor** - [Repo](https://github.com/KINGERZ02/Braille-to-text-and-Speech-convertor)
+- **Habit Tracking Assistant** - [Repo]
  
 
 ---
