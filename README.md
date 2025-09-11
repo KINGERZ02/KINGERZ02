@@ -31,7 +31,7 @@ Computer Vision (Template Matching, Contours, NMS, IoU)
 
 ## 📌 Featured Projects
 - **Demand Forecasting & Inventory Optimization (DL)** – Repo coming soon  
-- **ICU Vitals Model (Capstone)** – Repo coming soon
+- **ICU Vitals Model (Capstone)** – [Repo](https://github.com/KINGERZ02/Capstone)
 - **Smart Personal Finance Manager** – [Repo](https://github.com/KINGERZ02/Smart-Personal-Finance-Manager)
 - **Formula-1 Analytics Dashboard** – [Repo](https://github.com/KINGERZ02/F1-Dashboard)
 - **Braille-to-text-and-Speech-convertor** - [Repo](https://github.com/KINGERZ02/Braille-to-text-and-Speech-convertor)
